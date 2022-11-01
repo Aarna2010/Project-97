@@ -1,0 +1,23 @@
+#logo_img
+{
+    width: 150px;
+    border-radius: 10px;
+}
+
+#write-btn
+{
+    width: 40%;
+} 
+
+body
+{
+    background-color: lightpink;
+}
+h1
+{
+    font-family: monospace;
+}
+h4
+{
+    font-family: monospace;
+}
